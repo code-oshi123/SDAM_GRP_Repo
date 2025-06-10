@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|c:\\users\\ushan\\onedrive\\desktop\\sdam_grp_repo\\usereventhomeform3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:usereventhomeform3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|c:\\users\\ushan\\onedrive\\desktop\\sdam_grp_repo\\vieweventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:vieweventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|c:\\users\\ushan\\onedrive\\desktop\\sdam_grp_repo\\viewfeedbackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:viewfeedbackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|c:\\users\\ushan\\onedrive\\desktop\\sdam_grp_repo\\viewreviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:viewreviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|c:\\users\\ushan\\onedrive\\desktop\\sdam_grp_repo\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|c:\\users\\ushan\\onedrive\\desktop\\sdam_grp_repo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserEventHomeForm3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\UserEventHomeForm3.cs",
+              "RelativeDocumentMoniker": "UserEventHomeForm3.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\UserEventHomeForm3.cs [Design]",
+              "RelativeToolTip": "UserEventHomeForm3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:22:50.721Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewEventForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\ViewEventForm.cs",
+              "RelativeDocumentMoniker": "ViewEventForm.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\ViewEventForm.cs [Design]",
+              "RelativeToolTip": "ViewEventForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:22:49.326Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewFeedbackForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\ViewFeedbackForm.cs",
+              "RelativeDocumentMoniker": "ViewFeedbackForm.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\ViewFeedbackForm.cs [Design]",
+              "RelativeToolTip": "ViewFeedbackForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:22:47.853Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewReviewForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\ViewReviewForm.cs",
+              "RelativeDocumentMoniker": "ViewReviewForm.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\ViewReviewForm.cs [Design]",
+              "RelativeToolTip": "ViewReviewForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:22:45.678Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminDashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\AdminDashboardForm.cs",
+              "RelativeDocumentMoniker": "AdminDashboardForm.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\AdminDashboardForm.cs [Design]",
+              "RelativeToolTip": "AdminDashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:24:21.746Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:23:54.61Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
